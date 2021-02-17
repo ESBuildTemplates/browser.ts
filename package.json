@@ -1,5 +1,5 @@
 {
-  "name": "ts-p5",
+  "name": "ts-browser",
   "version": "1.0.0",
   "license": "MIT",
   "prettier": {
@@ -12,7 +12,6 @@
   },
   "devDependencies": {
     "@types/node": "^14.14.20",
-    "@types/p5": "^0.9.1",
     "esbuild": "^0.8.31",
     "gulp": "^4.0.2",
     "gulp-cli": "^2.3.0",
